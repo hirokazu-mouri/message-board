@@ -1,4 +1,4 @@
-resources/views/commons/error_messages.blade.php
+
 
 @if (count($errors) > 0)
     <ul>
